@@ -16,7 +16,7 @@ _Make sure to change to Global Options before modifying these to ensure they app
 
 
 ### Trusted Location
-  - In order to use the Magnification tool, be sure to set where this template (and other Mathematica files) exist as trusted locations. This can be done via the TrustedPath variable (_Global Options>NotebookSecurityOptions>TrustedPath_). When adding a new location, the window will prompt for `FrontEnd`FileName[{$RootDirectory},"x"]` where the `x` specifies the path to a trusted location.
+  - In order to use the Magnification tool, be sure to set where this template (and other Mathematica files) exist as trusted locations. This can be done via the TrustedPath variable (_Global Options>NotebookSecurityOptions>TrustedPath_). When adding a new location, the window will prompt for ``FrontEnd`FileName[{$RootDirectory},"x"]`` where the `x` specifies the path to a trusted location.
   
 ### Hide Cell Labels
   - Cell Options > Cell Labels > ShowCellLabel=False
