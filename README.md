@@ -6,7 +6,7 @@ Template for Mathematica that makes Homework and printed PDF documents look very
 Installation
 ------------
 
-Simply install Latin Modern font before running Mathematica/opening the document. Some Mathematica settings may be prudent to set for yourself to make it render as nicely as possible... [TODO] will update this.
+Simply install Latin Modern font before running Mathematica/opening the document. Then, set global Mathematica options in the Options Inspector to your liking (described below).
 
 
 Mathematica General Settings
